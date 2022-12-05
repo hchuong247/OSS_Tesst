@@ -1,0 +1,19 @@
+.container h3{
+    text-align: center;
+}
+.navbar
+{
+    background-color:black;
+   
+    font-size: 14pt;
+}
+.navbar-brand{
+    font-style: oblique;
+}
+.list-group {
+    padding-top: 30px;
+    text-transform: uppercase;
+}
+.list-group button{
+    float: right;
+}

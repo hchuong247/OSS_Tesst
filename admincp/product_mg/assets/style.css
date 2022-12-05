@@ -1,0 +1,28 @@
+.container h3{
+    text-align: center;
+}
+.navbar
+{
+    background-color:black;
+   
+    font-size: 14pt;
+}
+.navbar-brand{
+    font-style: oblique;
+}
+/*S H O W A L L PRODUCT*/
+.row img{
+    width: 100%;
+}
+/*I N S E R T PRODUCT*/
+.btn-is{
+    background-color: rgb(29, 121, 173);
+    margin-bottom: 50px;
+    text-align: center;
+    margin-left: 50%;
+    margin-top: 20px;
+
+}
+.img-edit-dt img{
+    width: 50%;
+}
